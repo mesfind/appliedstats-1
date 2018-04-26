@@ -1,6 +1,6 @@
 --- 
 title: "Applied Statistics with `R`"
-author: "[David Dalpiaz](https://daviddalpiaz.com/)"
+author: "[Mesfin Diro](https://mesfind.github.io)"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: book
@@ -9,7 +9,7 @@ biblio-style: apalike
 link-citations: yes
 site: bookdown::bookdown_site
 description: ""
-url: 'https\://daviddalpiaz.github.io/appliedstats/'
+url: 'https\://mesfind.github.io/appliedstats/'
 github-repo: daviddalpiaz/appliedstats
 favicon: "favicon.gif"
 ---
